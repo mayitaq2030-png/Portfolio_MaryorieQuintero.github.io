@@ -2,7 +2,7 @@
 
 <p align ="justify"> I am a professional in Business Intelligence, Customer Success, Revenue Operations, and Data Analytics with more than 5 years of experience driving growth for digital services, telecommunications, and cloud-solutions companies. My approach combines data analysis, process optimization, churn reduction, and strategic decision-making support. </p>
 
-<p align ="justify"> I am passionate about transforming complex data into actionable insights that increase business predictability, optimize revenue, and strengthen customer experience. I develop end-to-end solutions using Power BI, Table, Advanced Excel, SQL, Python, process automation, and commercial/financial KPI analysis. </p>
+<p align ="justify"> I am passionate about transforming complex data into actionable insights that increase business predictability, optimize revenue, and strengthen customer experience. I develop end-to-end solutions using Power BI, Tableu, Table, Advanced Excel, SQL, Python, process automation, and commercial/financial KPI analysis. </p>
 
 # 💼 What I Do
 
