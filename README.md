@@ -6,15 +6,20 @@
 
 # 💼 What I Do
 
-Data Analysis & Visualization: Power BI, Tableu  and Excel dashboards focused on MRC, churn, pipeline, revenue, and commercial performance.
+✅ ### Data Analysis & Visualization: 
+Power BI, Tableu  and Excel dashboards focused on MRC, churn, pipeline, revenue, and commercial performance.
 
-Revenue Operations: Forecasting, commission control, CRM audits, and end-to-end reporting.
+✅ ### Revenue Operations: 
+Forecasting, commission control, CRM audits, and end-to-end reporting.
 
-Customer Success: Churn-risk detection, retention models, and customer behavior analytics.
+✅ ### Customer Success: 
+Churn-risk detection, retention models, and customer behavior analytics.
 
-Commercial & Billing Processes: Offer control, reconciliations, breakage analysis, billing on hold, and data audits.
+✅ ### Commercial & Billing Processes: 
+Offer control, reconciliations, breakage analysis, billing on hold, and data audits.
 
-Operational Optimization: SQL automation, Python, CRM workflow improvements, and lifecycle tracking.
+✅ ### Operational Optimization: 
+SQL automation, Python, CRM workflow improvements, and lifecycle tracking.
 
 # 🚀 Core Skills
 
@@ -26,25 +31,15 @@ Python
 
 # 📂 Project Portfolio
 
-- [Proyect 1 ](https://github.com/mayitaq2030-png/mayitaq2030.github.io):
+- [Proyect 1 ](https://github.com/mayitaq2030-png/mayitaq2030.github.io): Help Desk Performance Dashboard for SAAS Medical Insurance
 
-Help Desk Performance Dashboard for SAAS Medical Insurance
+- [Proyect 2 ](https://github.com/mayitaq2030-png/FunnelSales.github.io): Funnel Pipeline & Sales Conversion Analysis for Saas Tech
 
-- [Proyect 2 ](https://github.com/mayitaq2030-png/FunnelSales.github.io):
+- [Proyect 3 ](https://github.com/mayitaq2030-png/ProjectHRMetrics.github.io): HR Metrics Analytics System for Saas Fintech
 
-Funnel Pipeline & Sales Conversion Analysis for Saas Tech
+- [Proyect 4 ](https://github.com/mayitaq2030-png/projectsuperstore.github.io): Revenue Growth & Profitability Insights for retail
 
-- [Proyect 3 ](https://github.com/mayitaq2030-png/ProjectHRMetrics.github.io):
-
-HR Metrics Analytics System for Saas Fintech
-
-- [Proyect 4 ](https://github.com/mayitaq2030-png/projectsuperstore.github.io):
-
-Revenue Growth & Profitability Insights for retail
-
-- [Proyect 5 ](https://github.com/mayitaq2030-png/Customers-FinanceAnalysis.github.io):
-
-Customers Finance Performance & Cashflow Analysis
+- [Proyect 5 ](https://github.com/mayitaq2030-png/Customers-FinanceAnalysis.github.io): Customers Finance Performance & Cashflow Analysis
 
 # 🎯 My Professional Purpose
 
@@ -54,6 +49,6 @@ Customers Finance Performance & Cashflow Analysis
 
 [Linkedin](https://www.linkedin.com/in/maryorie-quintero-095a9b393) 
 
-Email: maria.quinteroc1986@gmail.com
+[Email](maria.quinteroc1986@gmail.com) 
 
-- [GitHub ](https://github.com/Portfolio_MaryorieQuintero.github.io)
+[GitHub ](https://github.com/mayitaq2030-png/Portfolio_MaryorieQuintero.github.io)
