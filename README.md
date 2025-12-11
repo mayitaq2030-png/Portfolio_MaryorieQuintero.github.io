@@ -49,6 +49,6 @@ Python
 
 [Linkedin](https://www.linkedin.com/in/maryorie-quintero-095a9b393) 
 
-[Email](maria.quinteroc1986@gmail.com) 
+[Email](mailto:maria.quinteroc1986@gmail.com) 
 
 [GitHub ](https://github.com/mayitaq2030-png/Portfolio_MaryorieQuintero.github.io)
