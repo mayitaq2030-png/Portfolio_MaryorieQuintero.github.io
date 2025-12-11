@@ -26,23 +26,23 @@ Python
 
 # 📂 Project Portfolio
 
-- [Proyect 1 ](https://github.com/mayitaq2030.github.io):
+- [Proyect 1 ](https://github.com/mayitaq2030-png/mayitaq2030.github.io):
 
 Help Desk Performance Dashboard for SAAS Medical Insurance
 
-- [Proyect 2 ](https://github.com/FunnelSales.github.io):
+- [Proyect 2 ](https://github.com/mayitaq2030-png/FunnelSales.github.io):
 
 Funnel Pipeline & Sales Conversion Analysis for Saas Tech
 
-- [Proyect 3 ](https://github.com/ProjectHRMetrics.github.io)
+- [Proyect 3 ](https://github.com/mayitaq2030-png/ProjectHRMetrics.github.io):
 
 HR Metrics Analytics System for Saas Fintech
 
-- [Proyect 4 ](https://github.com/projectsuperstore.github.io)
+- [Proyect 4 ](https://github.com/mayitaq2030-png/projectsuperstore.github.io):
 
 Revenue Growth & Profitability Insights for retail
 
-- [Proyect 5 ](https://github.com/Customers-FinanceAnalysis.github.io)
+- [Proyect 5 ](https://github.com/mayitaq2030-png/Customers-FinanceAnalysis.github.io):
 
 Customers Finance Performance & Cashflow Analysis
 
@@ -52,7 +52,7 @@ Customers Finance Performance & Cashflow Analysis
 
 # 📩 Contact
 
-LinkedIn: [Linkedin](https://inkedin.com/in/maryorie-quintero-095a9b393) 
+[Linkedin](https://www.linkedin.com/in/maryorie-quintero-095a9b393) 
 
 Email: maria.quinteroc1986@gmail.com
 
