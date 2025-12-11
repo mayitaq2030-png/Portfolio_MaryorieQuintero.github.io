@@ -6,19 +6,19 @@
 
 # 💼 What I Do
 
-✅ ### Data Analysis & Visualization: 
+### ✅ Data Analysis & Visualization: 
 Power BI, Tableu  and Excel dashboards focused on MRC, churn, pipeline, revenue, and commercial performance.
 
-✅ ### Revenue Operations: 
+### ✅ Revenue Operations: 
 Forecasting, commission control, CRM audits, and end-to-end reporting.
 
-✅ ### Customer Success: 
+### ✅ Customer Success: 
 Churn-risk detection, retention models, and customer behavior analytics.
 
-✅ ### Commercial & Billing Processes: 
+### ✅ Commercial & Billing Processes: 
 Offer control, reconciliations, breakage analysis, billing on hold, and data audits.
 
-✅ ### Operational Optimization: 
+### ✅ Operational Optimization: 
 SQL automation, Python, CRM workflow improvements, and lifecycle tracking.
 
 # 🚀 Core Skills
