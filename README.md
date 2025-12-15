@@ -40,6 +40,8 @@ Python
 - [Proyect 4 ](https://github.com/mayitaq2030-png/projectsuperstore.github.io): Revenue Growth & Profitability Insights for retail
 
 - [Proyect 5 ](https://github.com/mayitaq2030-png/Customers-FinanceAnalysis.github.io): Customers Finance Performance & Cashflow Analysis
+  
+- [Proyect 6 ](https://github.com/mayitaq2030-png/Data_Quality_Analysis.github.io): Data Quality Analysis Global Logistics Company
 
 # 🎯 My Professional Purpose
 
