@@ -47,7 +47,7 @@ Python
 
 # 📩 Contact
 
-[Linkedin](https://www.linkedin.com/in/maryorie-quintero-095a9b393) 
+[Linkedin](https://www.linkedin.com/in/d-a-73373a399) 
 
 [Email](mailto:maria.quinteroc1986@gmail.com) 
 
