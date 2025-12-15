@@ -21,7 +21,7 @@ Offer control, reconciliations, breakage analysis, billing on hold, and data aud
 ### ✅ Operational Optimization: 
 SQL automation, Python, CRM workflow improvements, and lifecycle tracking.
 
-# 🚀 Core Skills
+# 🚀 Skills
 
 Excel,
 Power BI, 
