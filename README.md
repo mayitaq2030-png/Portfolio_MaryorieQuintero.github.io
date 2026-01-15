@@ -42,6 +42,8 @@ Python
 - [Proyect 5 ](https://github.com/mayitaq2030-png/Customers-FinanceAnalysis.github.io): Customers Finance Performance & Cashflow Analysis
   
 - [Proyect 6 ](https://github.com/mayitaq2030-png/Data_Quality_Analysis.github.io): Data Quality Analysis Global Logistics Company
+  
+- [Proyect 7 ](https://github.com/mayitaq2030-png/Health-Insurance-Report-SaaS.github.io): Insurance Portfolio Optimization & Retention Strategy
 
 # 🎯 My Professional Purpose
 
